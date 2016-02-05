@@ -1,0 +1,9 @@
+Ali,20.91
+Rayyan,19.19
+Abdullah,7.90
+Rayyan,10.0
+Abdullah,15.63
+Rayyan,16.59
+Abdullah,7.40
+Rayyan,9.90
+Ali,7.89
